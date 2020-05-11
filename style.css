@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 h1{
     font-size: 50px;    
 }
@@ -7,9 +11,26 @@ h1{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 2%;
+    margin-left: 5%;
     padding-left: 2%;
 }
 img{
-    width: 100%;
+    width: 90%;
+}
+.top{
+    background-image: url(image/Untitled-1.jpg);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato );
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.vbb{
+    color: rgb(8, 6, 3);    
 }
