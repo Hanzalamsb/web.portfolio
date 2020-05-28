@@ -37,3 +37,22 @@ section{
 .rut{
     color: burlywood;
 }
+.dreamp{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Ratri{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+.full{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1 ;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
